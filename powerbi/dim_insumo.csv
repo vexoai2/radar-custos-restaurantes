@@ -1,0 +1,26 @@
+id_insumo,insumo,categoria,codigo_sidra,unidade,preco_ref_out2026
+1,Arroz,Grãos e farinhas,7173,kg,6.0
+2,Feijão carioca,Grãos e farinhas,12222,kg,8.0
+3,Feijão preto,Grãos e farinhas,7176,kg,8.5
+4,Macarrão,Grãos e farinhas,7187,kg,9.0
+5,Farinha de mandioca,Grãos e farinhas,7195,kg,7.0
+6,Batata-inglesa,Hortifrúti,7202,kg,6.0
+7,Abobrinha,Hortifrúti,7206,kg,6.0
+8,Tomate,Hortifrúti,7212,kg,8.0
+9,Cebola,Hortifrúti,7215,kg,5.5
+10,Cenoura,Hortifrúti,7216,kg,5.0
+11,Alface,Hortifrúti,7242,kg,12.0
+12,Couve,Hortifrúti,7245,kg,10.0
+13,Brócolis,Hortifrúti,7253,kg,14.0
+14,Limão,Hortifrúti,7265,kg,6.0
+15,Carne de porco,Proteínas,7287,kg,24.0
+16,Contrafilé,Proteínas,7291,kg,60.0
+17,Acém,Proteínas,7300,kg,38.0
+18,Tilápia,Proteínas,12302,kg,55.0
+19,Linguiça,Proteínas,7339,kg,25.0
+20,Carne-seca,Proteínas,12379,kg,55.0
+21,Frango em pedaços,Proteínas,107618,kg,16.0
+22,Queijo,Laticínios,107619,kg,45.0
+23,Óleo de soja,Óleos e temperos,7385,l,8.0
+24,Azeite de oliva,Óleos e temperos,7386,l,45.0
+25,Alho,Óleos e temperos,7418,kg,30.0
