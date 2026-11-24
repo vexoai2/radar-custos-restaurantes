@@ -1,0 +1,41 @@
+id_prato,prato,id_insumo,quantidade
+1,PF de Frango Grelhado,1,0.080
+1,PF de Frango Grelhado,2,0.050
+1,PF de Frango Grelhado,21,0.180
+1,PF de Frango Grelhado,8,0.050
+1,PF de Frango Grelhado,11,0.030
+1,PF de Frango Grelhado,9,0.020
+1,PF de Frango Grelhado,25,0.005
+1,PF de Frango Grelhado,23,0.015
+2,Bife Acebolado com Fritas,16,0.200
+2,Bife Acebolado com Fritas,9,0.080
+2,Bife Acebolado com Fritas,6,0.250
+2,Bife Acebolado com Fritas,23,0.040
+2,Bife Acebolado com Fritas,1,0.080
+2,Bife Acebolado com Fritas,2,0.050
+2,Bife Acebolado com Fritas,25,0.005
+3,Tilápia Grelhada com Legumes,18,0.200
+3,Tilápia Grelhada com Legumes,14,0.030
+3,Tilápia Grelhada com Legumes,7,0.080
+3,Tilápia Grelhada com Legumes,10,0.080
+3,Tilápia Grelhada com Legumes,13,0.080
+3,Tilápia Grelhada com Legumes,24,0.015
+3,Tilápia Grelhada com Legumes,1,0.080
+3,Tilápia Grelhada com Legumes,25,0.005
+4,Macarrão à Bolonhesa,4,0.120
+4,Macarrão à Bolonhesa,17,0.150
+4,Macarrão à Bolonhesa,8,0.200
+4,Macarrão à Bolonhesa,9,0.040
+4,Macarrão à Bolonhesa,25,0.008
+4,Macarrão à Bolonhesa,22,0.030
+4,Macarrão à Bolonhesa,24,0.010
+5,Feijoada,3,0.100
+5,Feijoada,15,0.080
+5,Feijoada,19,0.070
+5,Feijoada,20,0.060
+5,Feijoada,12,0.060
+5,Feijoada,5,0.040
+5,Feijoada,1,0.080
+5,Feijoada,9,0.030
+5,Feijoada,25,0.008
+5,Feijoada,23,0.010
