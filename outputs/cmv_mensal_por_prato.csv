@@ -1,0 +1,411 @@
+mes,id_prato,prato,cmv,preco_venda,cmv_pct
+202001,1,PF de Frango Grelhado,3.03,22.83,13.26
+202002,1,PF de Frango Grelhado,3.06,22.91,13.35
+202003,1,PF de Frango Grelhado,3.11,22.89,13.57
+202004,1,PF de Frango Grelhado,3.23,22.86,14.14
+202005,1,PF de Frango Grelhado,3.28,22.78,14.41
+202006,1,PF de Frango Grelhado,3.26,22.76,14.33
+202007,1,PF de Frango Grelhado,3.25,22.75,14.29
+202008,1,PF de Frango Grelhado,3.27,22.62,14.43
+202009,1,PF de Frango Grelhado,3.38,22.77,14.82
+202010,1,PF de Frango Grelhado,3.49,22.87,15.25
+202011,1,PF de Frango Grelhado,3.61,23.03,15.7
+202012,1,PF de Frango Grelhado,3.67,23.2,15.82
+202101,1,PF de Frango Grelhado,3.73,23.32,16.0
+202102,1,PF de Frango Grelhado,3.72,23.42,15.9
+202103,1,PF de Frango Grelhado,3.71,23.5,15.76
+202104,1,PF de Frango Grelhado,3.76,23.58,15.96
+202105,1,PF de Frango Grelhado,3.77,23.72,15.89
+202106,1,PF de Frango Grelhado,3.79,23.93,15.84
+202107,1,PF de Frango Grelhado,3.88,23.93,16.22
+202108,1,PF de Frango Grelhado,4.0,24.07,16.61
+202109,1,PF de Frango Grelhado,4.12,24.3,16.94
+202110,1,PF de Frango Grelhado,4.27,24.48,17.43
+202111,1,PF de Frango Grelhado,4.32,24.75,17.47
+202112,1,PF de Frango Grelhado,4.28,25.01,17.12
+202201,1,PF de Frango Grelhado,4.3,25.12,17.11
+202202,1,PF de Frango Grelhado,4.32,25.13,17.2
+202203,1,PF de Frango Grelhado,4.42,25.28,17.47
+202204,1,PF de Frango Grelhado,4.56,25.39,17.98
+202205,1,PF de Frango Grelhado,4.55,25.49,17.86
+202206,1,PF de Frango Grelhado,4.6,25.73,17.89
+202207,1,PF de Frango Grelhado,4.58,25.87,17.69
+202208,1,PF de Frango Grelhado,4.59,26.09,17.59
+202209,1,PF de Frango Grelhado,4.52,26.17,17.28
+202210,1,PF de Frango Grelhado,4.58,26.33,17.41
+202211,1,PF de Frango Grelhado,4.59,26.43,17.38
+202212,1,PF de Frango Grelhado,4.66,26.48,17.58
+202301,1,PF de Frango Grelhado,4.64,26.58,17.47
+202302,1,PF de Frango Grelhado,4.57,26.68,17.15
+202303,1,PF de Frango Grelhado,4.53,26.79,16.9
+202304,1,PF de Frango Grelhado,4.55,26.93,16.89
+202305,1,PF de Frango Grelhado,4.55,27.05,16.82
+202306,1,PF de Frango Grelhado,4.48,27.15,16.49
+202307,1,PF de Frango Grelhado,4.36,27.19,16.03
+202308,1,PF de Frango Grelhado,4.23,27.24,15.55
+202309,1,PF de Frango Grelhado,4.19,27.27,15.38
+202310,1,PF de Frango Grelhado,4.23,27.4,15.43
+202311,1,PF de Frango Grelhado,4.29,27.5,15.61
+202312,1,PF de Frango Grelhado,4.42,27.63,16.0
+202401,1,PF de Frango Grelhado,4.53,27.68,16.35
+202402,1,PF de Frango Grelhado,4.6,27.86,16.51
+202403,1,PF de Frango Grelhado,4.69,27.89,16.8
+202404,1,PF de Frango Grelhado,4.75,27.98,16.99
+202405,1,PF de Frango Grelhado,4.79,28.08,17.07
+202406,1,PF de Frango Grelhado,4.78,28.18,16.98
+202407,1,PF de Frango Grelhado,4.65,28.25,16.45
+202408,1,PF de Frango Grelhado,4.56,28.37,16.07
+202409,1,PF de Frango Grelhado,4.52,28.42,15.89
+202410,1,PF de Frango Grelhado,4.54,28.57,15.89
+202411,1,PF de Frango Grelhado,4.6,28.79,15.99
+202412,1,PF de Frango Grelhado,4.67,29.2,15.99
+202501,1,PF de Frango Grelhado,4.75,29.37,16.18
+202502,1,PF de Frango Grelhado,4.78,29.46,16.22
+202503,1,PF de Frango Grelhado,4.87,29.71,16.4
+202504,1,PF de Frango Grelhado,4.96,29.85,16.62
+202505,1,PF de Frango Grelhado,4.93,30.04,16.41
+202506,1,PF de Frango Grelhado,4.91,30.17,16.29
+202507,1,PF de Frango Grelhado,4.86,30.3,16.05
+202508,1,PF de Frango Grelhado,4.78,30.41,15.72
+202509,1,PF de Frango Grelhado,4.69,30.36,15.45
+202510,1,PF de Frango Grelhado,4.68,30.47,15.35
+202511,1,PF de Frango Grelhado,4.64,30.58,15.18
+202512,1,PF de Frango Grelhado,4.65,30.65,15.16
+202601,1,PF de Frango Grelhado,4.65,30.85,15.08
+202602,1,PF de Frango Grelhado,4.67,31.0,15.08
+202603,1,PF de Frango Grelhado,4.79,31.16,15.36
+202604,1,PF de Frango Grelhado,4.78,31.32,15.27
+202605,1,PF de Frango Grelhado,4.9,31.48,15.56
+202606,1,PF de Frango Grelhado,4.91,31.53,15.57
+202607,1,PF de Frango Grelhado,4.79,31.66,15.13
+202608,1,PF de Frango Grelhado,4.71,31.72,14.85
+202609,1,PF de Frango Grelhado,4.77,31.88,14.98
+202610,1,PF de Frango Grelhado,4.9,32.0,15.31
+202001,2,Bife Acebolado com Fritas,8.75,34.25,25.56
+202002,2,Bife Acebolado com Fritas,8.37,34.37,24.36
+202003,2,Bife Acebolado com Fritas,8.31,34.33,24.22
+202004,2,Bife Acebolado com Fritas,8.41,34.29,24.53
+202005,2,Bife Acebolado com Fritas,8.74,34.17,25.58
+202006,2,Bife Acebolado com Fritas,8.9,34.15,26.08
+202007,2,Bife Acebolado com Fritas,8.75,34.13,25.63
+202008,2,Bife Acebolado com Fritas,8.73,33.94,25.71
+202009,2,Bife Acebolado com Fritas,9.07,34.16,26.55
+202010,2,Bife Acebolado com Fritas,9.57,34.3,27.91
+202011,2,Bife Acebolado com Fritas,10.44,34.54,30.21
+202012,2,Bife Acebolado com Fritas,10.91,34.8,31.37
+202101,2,Bife Acebolado com Fritas,11.09,34.98,31.71
+202102,2,Bife Acebolado com Fritas,11.09,35.12,31.57
+202103,2,Bife Acebolado com Fritas,11.06,35.26,31.38
+202104,2,Bife Acebolado com Fritas,10.91,35.36,30.86
+202105,2,Bife Acebolado com Fritas,11.09,35.59,31.17
+202106,2,Bife Acebolado com Fritas,11.02,35.89,30.7
+202107,2,Bife Acebolado com Fritas,10.96,35.9,30.52
+202108,2,Bife Acebolado com Fritas,11.13,36.11,30.82
+202109,2,Bife Acebolado com Fritas,11.22,36.45,30.8
+202110,2,Bife Acebolado com Fritas,11.41,36.72,31.08
+202111,2,Bife Acebolado com Fritas,11.53,37.12,31.07
+202112,2,Bife Acebolado com Fritas,11.58,37.52,30.87
+202201,2,Bife Acebolado com Fritas,12.01,37.69,31.87
+202202,2,Bife Acebolado com Fritas,12.36,37.69,32.78
+202203,2,Bife Acebolado com Fritas,12.5,37.92,32.96
+202204,2,Bife Acebolado com Fritas,12.94,38.08,33.98
+202205,2,Bife Acebolado com Fritas,12.97,38.23,33.91
+202206,2,Bife Acebolado com Fritas,12.86,38.6,33.32
+202207,2,Bife Acebolado com Fritas,12.51,38.8,32.25
+202208,2,Bife Acebolado com Fritas,12.24,39.13,31.28
+202209,2,Bife Acebolado com Fritas,12.26,39.26,31.24
+202210,2,Bife Acebolado com Fritas,12.55,39.5,31.76
+202211,2,Bife Acebolado com Fritas,12.68,39.64,32.0
+202212,2,Bife Acebolado com Fritas,12.84,39.72,32.34
+202301,2,Bife Acebolado com Fritas,12.94,39.87,32.47
+202302,2,Bife Acebolado com Fritas,12.62,40.02,31.54
+202303,2,Bife Acebolado com Fritas,12.16,40.19,30.27
+202304,2,Bife Acebolado com Fritas,12.11,40.39,29.98
+202305,2,Bife Acebolado com Fritas,11.97,40.58,29.5
+202306,2,Bife Acebolado com Fritas,11.76,40.72,28.88
+202307,2,Bife Acebolado com Fritas,11.46,40.78,28.1
+202308,2,Bife Acebolado com Fritas,11.11,40.86,27.2
+202309,2,Bife Acebolado com Fritas,10.77,40.91,26.32
+202310,2,Bife Acebolado com Fritas,11.05,41.11,26.88
+202311,2,Bife Acebolado com Fritas,11.48,41.25,27.83
+202312,2,Bife Acebolado com Fritas,11.85,41.44,28.59
+202401,2,Bife Acebolado com Fritas,12.42,41.51,29.93
+202402,2,Bife Acebolado com Fritas,12.54,41.79,30.0
+202403,2,Bife Acebolado com Fritas,12.08,41.83,28.87
+202404,2,Bife Acebolado com Fritas,11.92,41.97,28.4
+202405,2,Bife Acebolado com Fritas,12.23,42.12,29.04
+202406,2,Bife Acebolado com Fritas,12.47,42.27,29.51
+202407,2,Bife Acebolado com Fritas,12.3,42.37,29.02
+202408,2,Bife Acebolado com Fritas,11.8,42.55,27.72
+202409,2,Bife Acebolado com Fritas,11.95,42.63,28.03
+202410,2,Bife Acebolado com Fritas,12.39,42.86,28.91
+202411,2,Bife Acebolado com Fritas,13.16,43.19,30.47
+202412,2,Bife Acebolado com Fritas,13.43,43.8,30.66
+202501,2,Bife Acebolado com Fritas,13.52,44.06,30.68
+202502,2,Bife Acebolado com Fritas,13.43,44.19,30.39
+202503,2,Bife Acebolado com Fritas,13.04,44.57,29.27
+202504,2,Bife Acebolado com Fritas,13.22,44.78,29.53
+202505,2,Bife Acebolado com Fritas,13.44,45.07,29.81
+202506,2,Bife Acebolado com Fritas,13.27,45.25,29.31
+202507,2,Bife Acebolado com Fritas,12.95,45.45,28.48
+202508,2,Bife Acebolado com Fritas,12.71,45.61,27.87
+202509,2,Bife Acebolado com Fritas,12.61,45.54,27.68
+202510,2,Bife Acebolado com Fritas,12.72,45.71,27.83
+202511,2,Bife Acebolado com Fritas,12.89,45.87,28.1
+202512,2,Bife Acebolado com Fritas,13.22,45.98,28.76
+202601,2,Bife Acebolado com Fritas,13.41,46.28,28.97
+202602,2,Bife Acebolado com Fritas,13.56,46.51,29.16
+202603,2,Bife Acebolado com Fritas,13.9,46.73,29.75
+202604,2,Bife Acebolado com Fritas,14.21,46.99,30.25
+202605,2,Bife Acebolado com Fritas,15.09,47.23,31.96
+202606,2,Bife Acebolado com Fritas,15.02,47.3,31.76
+202607,2,Bife Acebolado com Fritas,14.65,47.49,30.85
+202608,2,Bife Acebolado com Fritas,14.44,47.58,30.36
+202609,2,Bife Acebolado com Fritas,14.92,47.81,31.2
+202610,2,Bife Acebolado com Fritas,15.29,48.0,31.85
+202001,3,Tilápia Grelhada com Legumes,10.59,37.1,28.55
+202002,3,Tilápia Grelhada com Legumes,10.72,37.23,28.79
+202003,3,Tilápia Grelhada com Legumes,11.17,37.19,30.03
+202004,3,Tilápia Grelhada com Legumes,11.19,37.15,30.14
+202005,3,Tilápia Grelhada com Legumes,11.1,37.02,29.99
+202006,3,Tilápia Grelhada com Legumes,11.11,36.99,30.04
+202007,3,Tilápia Grelhada com Legumes,11.06,36.97,29.93
+202008,3,Tilápia Grelhada com Legumes,11.04,36.76,30.04
+202009,3,Tilápia Grelhada com Legumes,11.14,37.01,30.09
+202010,3,Tilápia Grelhada com Legumes,11.32,37.16,30.46
+202011,3,Tilápia Grelhada com Legumes,11.48,37.42,30.68
+202012,3,Tilápia Grelhada com Legumes,11.7,37.7,31.04
+202101,3,Tilápia Grelhada com Legumes,11.85,37.89,31.28
+202102,3,Tilápia Grelhada com Legumes,12.09,38.05,31.76
+202103,3,Tilápia Grelhada com Legumes,12.11,38.19,31.71
+202104,3,Tilápia Grelhada com Legumes,12.02,38.31,31.39
+202105,3,Tilápia Grelhada com Legumes,12.03,38.55,31.2
+202106,3,Tilápia Grelhada com Legumes,12.03,38.88,30.94
+202107,3,Tilápia Grelhada com Legumes,12.28,38.89,31.59
+202108,3,Tilápia Grelhada com Legumes,12.33,39.12,31.51
+202109,3,Tilápia Grelhada com Legumes,12.35,39.48,31.27
+202110,3,Tilápia Grelhada com Legumes,12.15,39.78,30.55
+202111,3,Tilápia Grelhada com Legumes,12.29,40.21,30.55
+202112,3,Tilápia Grelhada com Legumes,12.14,40.65,29.86
+202201,3,Tilápia Grelhada com Legumes,12.38,40.83,30.31
+202202,3,Tilápia Grelhada com Legumes,12.9,40.83,31.59
+202203,3,Tilápia Grelhada com Legumes,13.21,41.08,32.15
+202204,3,Tilápia Grelhada com Legumes,13.29,41.25,32.21
+202205,3,Tilápia Grelhada com Legumes,13.03,41.42,31.46
+202206,3,Tilápia Grelhada com Legumes,12.98,41.81,31.04
+202207,3,Tilápia Grelhada com Legumes,12.76,42.04,30.36
+202208,3,Tilápia Grelhada com Legumes,12.72,42.39,30.0
+202209,3,Tilápia Grelhada com Legumes,12.72,42.53,29.9
+202210,3,Tilápia Grelhada com Legumes,12.76,42.79,29.81
+202211,3,Tilápia Grelhada com Legumes,12.77,42.95,29.74
+202212,3,Tilápia Grelhada com Legumes,12.69,43.03,29.48
+202301,3,Tilápia Grelhada com Legumes,12.94,43.19,29.96
+202302,3,Tilápia Grelhada com Legumes,13.23,43.36,30.53
+202303,3,Tilápia Grelhada com Legumes,13.71,43.53,31.49
+202304,3,Tilápia Grelhada com Legumes,13.87,43.76,31.7
+202305,3,Tilápia Grelhada com Legumes,14.07,43.96,32.0
+202306,3,Tilápia Grelhada com Legumes,13.86,44.12,31.42
+202307,3,Tilápia Grelhada com Legumes,13.69,44.18,30.99
+202308,3,Tilápia Grelhada com Legumes,13.77,44.26,31.12
+202309,3,Tilápia Grelhada com Legumes,13.84,44.32,31.24
+202310,3,Tilápia Grelhada com Legumes,14.02,44.53,31.49
+202311,3,Tilápia Grelhada com Legumes,14.08,44.68,31.51
+202312,3,Tilápia Grelhada com Legumes,14.26,44.9,31.75
+202401,3,Tilápia Grelhada com Legumes,14.62,44.97,32.51
+202402,3,Tilápia Grelhada com Legumes,14.92,45.28,32.95
+202403,3,Tilápia Grelhada com Legumes,15.06,45.32,33.23
+202404,3,Tilápia Grelhada com Legumes,15.27,45.47,33.59
+202405,3,Tilápia Grelhada com Legumes,15.36,45.63,33.66
+202406,3,Tilápia Grelhada com Legumes,15.44,45.79,33.72
+202407,3,Tilápia Grelhada com Legumes,14.9,45.9,32.46
+202408,3,Tilápia Grelhada com Legumes,14.62,46.1,31.72
+202409,3,Tilápia Grelhada com Legumes,14.46,46.18,31.32
+202410,3,Tilápia Grelhada com Legumes,14.45,46.43,31.13
+202411,3,Tilápia Grelhada com Legumes,14.41,46.79,30.8
+202412,3,Tilápia Grelhada com Legumes,14.45,47.45,30.46
+202501,3,Tilápia Grelhada com Legumes,14.84,47.73,31.1
+202502,3,Tilápia Grelhada com Legumes,14.54,47.87,30.38
+202503,3,Tilápia Grelhada com Legumes,14.61,48.28,30.26
+202504,3,Tilápia Grelhada com Legumes,14.61,48.51,30.11
+202505,3,Tilápia Grelhada com Legumes,14.21,48.82,29.12
+202506,3,Tilápia Grelhada com Legumes,14.14,49.02,28.84
+202507,3,Tilápia Grelhada com Legumes,13.99,49.24,28.41
+202508,3,Tilápia Grelhada com Legumes,13.95,49.41,28.23
+202509,3,Tilápia Grelhada com Legumes,13.87,49.33,28.11
+202510,3,Tilápia Grelhada com Legumes,13.67,49.52,27.61
+202511,3,Tilápia Grelhada com Legumes,13.67,49.69,27.5
+202512,3,Tilápia Grelhada com Legumes,13.49,49.81,27.08
+202601,3,Tilápia Grelhada com Legumes,13.87,50.14,27.66
+202602,3,Tilápia Grelhada com Legumes,13.95,50.38,27.68
+202603,3,Tilápia Grelhada com Legumes,14.27,50.63,28.18
+202604,3,Tilápia Grelhada com Legumes,14.73,50.9,28.94
+202605,3,Tilápia Grelhada com Legumes,14.54,51.16,28.41
+202606,3,Tilápia Grelhada com Legumes,14.64,51.24,28.57
+202607,3,Tilápia Grelhada com Legumes,14.4,51.45,27.99
+202608,3,Tilápia Grelhada com Legumes,14.25,51.55,27.65
+202609,3,Tilápia Grelhada com Legumes,14.38,51.8,27.77
+202610,3,Tilápia Grelhada com Legumes,14.48,52.0,27.86
+202001,4,Macarrão à Bolonhesa,5.96,27.11,22.0
+202002,4,Macarrão à Bolonhesa,6.09,27.21,22.37
+202003,4,Macarrão à Bolonhesa,6.28,27.18,23.1
+202004,4,Macarrão à Bolonhesa,6.3,27.14,23.22
+202005,4,Macarrão à Bolonhesa,6.31,27.05,23.32
+202006,4,Macarrão à Bolonhesa,6.25,27.03,23.12
+202007,4,Macarrão à Bolonhesa,6.24,27.02,23.1
+202008,4,Macarrão à Bolonhesa,6.42,26.87,23.88
+202009,4,Macarrão à Bolonhesa,6.64,27.04,24.56
+202010,4,Macarrão à Bolonhesa,6.89,27.15,25.39
+202011,4,Macarrão à Bolonhesa,7.25,27.34,26.53
+202012,4,Macarrão à Bolonhesa,7.29,27.55,26.45
+202101,4,Macarrão à Bolonhesa,7.38,27.69,26.64
+202102,4,Macarrão à Bolonhesa,7.44,27.81,26.76
+202103,4,Macarrão à Bolonhesa,7.49,27.91,26.84
+202104,4,Macarrão à Bolonhesa,7.66,28.0,27.35
+202105,4,Macarrão à Bolonhesa,7.77,28.17,27.59
+202106,4,Macarrão à Bolonhesa,7.72,28.41,27.16
+202107,4,Macarrão à Bolonhesa,7.87,28.42,27.69
+202108,4,Macarrão à Bolonhesa,7.99,28.58,27.96
+202109,4,Macarrão à Bolonhesa,8.11,28.85,28.12
+202110,4,Macarrão à Bolonhesa,8.25,29.07,28.39
+202111,4,Macarrão à Bolonhesa,8.06,29.39,27.41
+202112,4,Macarrão à Bolonhesa,8.09,29.7,27.22
+202201,4,Macarrão à Bolonhesa,8.25,29.83,27.65
+202202,4,Macarrão à Bolonhesa,8.4,29.84,28.14
+202203,4,Macarrão à Bolonhesa,8.74,30.02,29.11
+202204,4,Macarrão à Bolonhesa,9.02,30.15,29.92
+202205,4,Macarrão à Bolonhesa,8.72,30.27,28.82
+202206,4,Macarrão à Bolonhesa,8.66,30.56,28.33
+202207,4,Macarrão à Bolonhesa,8.52,30.72,27.73
+202208,4,Macarrão à Bolonhesa,8.46,30.98,27.31
+202209,4,Macarrão à Bolonhesa,8.39,31.08,27.0
+202210,4,Macarrão à Bolonhesa,8.56,31.27,27.39
+202211,4,Macarrão à Bolonhesa,8.68,31.38,27.66
+202212,4,Macarrão à Bolonhesa,8.8,31.44,27.99
+202301,4,Macarrão à Bolonhesa,8.71,31.56,27.59
+202302,4,Macarrão à Bolonhesa,8.53,31.68,26.92
+202303,4,Macarrão à Bolonhesa,8.48,31.81,26.66
+202304,4,Macarrão à Bolonhesa,8.55,31.98,26.74
+202305,4,Macarrão à Bolonhesa,8.61,32.13,26.8
+202306,4,Macarrão à Bolonhesa,8.53,32.24,26.47
+202307,4,Macarrão à Bolonhesa,8.44,32.29,26.14
+202308,4,Macarrão à Bolonhesa,8.31,32.34,25.68
+202309,4,Macarrão à Bolonhesa,8.19,32.39,25.3
+202310,4,Macarrão à Bolonhesa,8.2,32.54,25.18
+202311,4,Macarrão à Bolonhesa,8.24,32.65,25.22
+202312,4,Macarrão à Bolonhesa,8.3,32.81,25.28
+202401,4,Macarrão à Bolonhesa,8.27,32.87,25.15
+202402,4,Macarrão à Bolonhesa,8.26,33.09,24.98
+202403,4,Macarrão à Bolonhesa,8.46,33.12,25.53
+202404,4,Macarrão à Bolonhesa,8.72,33.23,26.25
+202405,4,Macarrão à Bolonhesa,8.72,33.35,26.16
+202406,4,Macarrão à Bolonhesa,8.73,33.46,26.08
+202407,4,Macarrão à Bolonhesa,8.24,33.54,24.56
+202408,4,Macarrão à Bolonhesa,8.04,33.69,23.88
+202409,4,Macarrão à Bolonhesa,8.1,33.75,23.99
+202410,4,Macarrão à Bolonhesa,8.52,33.93,25.11
+202411,4,Macarrão à Bolonhesa,8.89,34.19,26.01
+202412,4,Macarrão à Bolonhesa,9.17,34.68,26.43
+202501,4,Macarrão à Bolonhesa,9.29,34.88,26.64
+202502,4,Macarrão à Bolonhesa,9.39,34.98,26.85
+202503,4,Macarrão à Bolonhesa,9.6,35.28,27.21
+202504,4,Macarrão à Bolonhesa,9.8,35.45,27.63
+202505,4,Macarrão à Bolonhesa,9.71,35.68,27.22
+202506,4,Macarrão à Bolonhesa,9.72,35.82,27.13
+202507,4,Macarrão à Bolonhesa,9.63,35.98,26.77
+202508,4,Macarrão à Bolonhesa,9.4,36.11,26.04
+202509,4,Macarrão à Bolonhesa,9.2,36.05,25.52
+202510,4,Macarrão à Bolonhesa,9.16,36.19,25.32
+202511,4,Macarrão à Bolonhesa,9.11,36.31,25.1
+202512,4,Macarrão à Bolonhesa,9.13,36.4,25.08
+202601,4,Macarrão à Bolonhesa,9.26,36.64,25.28
+202602,4,Macarrão à Bolonhesa,9.28,36.82,25.2
+202603,4,Macarrão à Bolonhesa,9.65,37.0,26.09
+202604,4,Macarrão à Bolonhesa,9.89,37.2,26.6
+202605,4,Macarrão à Bolonhesa,10.3,37.39,27.56
+202606,4,Macarrão à Bolonhesa,10.35,37.44,27.65
+202607,4,Macarrão à Bolonhesa,9.93,37.6,26.42
+202608,4,Macarrão à Bolonhesa,9.82,37.67,26.07
+202609,4,Macarrão à Bolonhesa,10.21,37.85,26.97
+202610,4,Macarrão à Bolonhesa,10.64,38.0,28.0
+202001,5,Feijoada,6.82,32.11,21.23
+202002,5,Feijoada,6.83,32.22,21.18
+202003,5,Feijoada,6.89,32.19,21.42
+202004,5,Feijoada,7.0,32.14,21.77
+202005,5,Feijoada,7.07,32.04,22.06
+202006,5,Feijoada,7.2,32.01,22.5
+202007,5,Feijoada,7.32,31.99,22.88
+202008,5,Feijoada,7.42,31.81,23.34
+202009,5,Feijoada,7.78,32.02,24.28
+202010,5,Feijoada,7.94,32.16,24.7
+202011,5,Feijoada,8.25,32.38,25.47
+202012,5,Feijoada,8.35,32.62,25.59
+202101,5,Feijoada,8.46,32.79,25.8
+202102,5,Feijoada,8.5,32.93,25.82
+202103,5,Feijoada,8.5,33.05,25.7
+202104,5,Feijoada,8.55,33.15,25.79
+202105,5,Feijoada,8.59,33.36,25.76
+202106,5,Feijoada,8.64,33.64,25.67
+202107,5,Feijoada,8.65,33.66,25.69
+202108,5,Feijoada,8.64,33.85,25.51
+202109,5,Feijoada,8.61,34.17,25.19
+202110,5,Feijoada,8.64,34.42,25.11
+202111,5,Feijoada,8.52,34.8,24.48
+202112,5,Feijoada,8.53,35.18,24.26
+202201,5,Feijoada,8.48,35.33,23.99
+202202,5,Feijoada,8.51,35.34,24.07
+202203,5,Feijoada,8.61,35.55,24.23
+202204,5,Feijoada,8.71,35.7,24.41
+202205,5,Feijoada,8.82,35.85,24.6
+202206,5,Feijoada,8.79,36.19,24.29
+202207,5,Feijoada,8.75,36.38,24.05
+202208,5,Feijoada,8.69,36.68,23.7
+202209,5,Feijoada,8.61,36.81,23.39
+202210,5,Feijoada,8.6,37.03,23.23
+202211,5,Feijoada,8.71,37.17,23.42
+202212,5,Feijoada,8.81,37.24,23.67
+202301,5,Feijoada,8.83,37.38,23.64
+202302,5,Feijoada,8.94,37.52,23.82
+202303,5,Feijoada,8.93,37.67,23.71
+202304,5,Feijoada,8.92,37.87,23.55
+202305,5,Feijoada,8.93,38.04,23.48
+202306,5,Feijoada,8.81,38.18,23.08
+202307,5,Feijoada,8.67,38.23,22.69
+202308,5,Feijoada,8.62,38.3,22.5
+202309,5,Feijoada,8.59,38.35,22.39
+202310,5,Feijoada,8.57,38.54,22.24
+202311,5,Feijoada,8.64,38.67,22.34
+202312,5,Feijoada,8.82,38.85,22.69
+202401,5,Feijoada,8.92,38.92,22.93
+202402,5,Feijoada,9.01,39.18,22.99
+202403,5,Feijoada,9.02,39.22,23.0
+202404,5,Feijoada,9.0,39.35,22.88
+202405,5,Feijoada,8.98,39.49,22.73
+202406,5,Feijoada,8.91,39.62,22.48
+202407,5,Feijoada,8.82,39.72,22.22
+202408,5,Feijoada,8.76,39.89,21.97
+202409,5,Feijoada,8.89,39.97,22.25
+202410,5,Feijoada,8.98,40.18,22.36
+202411,5,Feijoada,9.29,40.49,22.93
+202412,5,Feijoada,9.52,41.07,23.17
+202501,5,Feijoada,9.48,41.3,22.96
+202502,5,Feijoada,9.47,41.42,22.87
+202503,5,Feijoada,9.46,41.78,22.65
+202504,5,Feijoada,9.4,41.98,22.39
+202505,5,Feijoada,9.42,42.25,22.29
+202506,5,Feijoada,9.41,42.42,22.17
+202507,5,Feijoada,9.35,42.61,21.95
+202508,5,Feijoada,9.24,42.76,21.61
+202509,5,Feijoada,9.1,42.69,21.32
+202510,5,Feijoada,9.04,42.85,21.1
+202511,5,Feijoada,9.04,43.0,21.03
+202512,5,Feijoada,9.07,43.1,21.05
+202601,5,Feijoada,9.08,43.39,20.92
+202602,5,Feijoada,9.13,43.6,20.94
+202603,5,Feijoada,9.25,43.81,21.11
+202604,5,Feijoada,9.3,44.05,21.1
+202605,5,Feijoada,9.46,44.27,21.37
+202606,5,Feijoada,9.6,44.34,21.65
+202607,5,Feijoada,9.6,44.53,21.56
+202608,5,Feijoada,9.48,44.61,21.26
+202609,5,Feijoada,9.53,44.83,21.27
+202610,5,Feijoada,9.67,45.0,21.48
